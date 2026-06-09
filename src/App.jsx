@@ -633,10 +633,6 @@ export default function App() {
                 <div className="home-image-deco" />
                 <div className="home-image-frame">
                   <img src="computer_image.jpg" alt="Portfolio" />
-                  <div className="status-badge">
-                    <span className="status-dot" />
-                    Open to opportunities
-                  </div>
                 </div>
               </div>
             </div>
