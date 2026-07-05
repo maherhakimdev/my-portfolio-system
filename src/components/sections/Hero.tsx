@@ -48,10 +48,6 @@ export function Hero() {
         transition={{ duration: 0.6, delay: 0.15 }}
         className="relative flex-shrink-0"
       >
-        <div
-          className="absolute -right-4 -top-4 h-full w-full rounded-3xl border border-accent/30"
-          aria-hidden="true"
-        />
         <div className="relative h-72 w-60 overflow-hidden rounded-3xl border border-border sm:h-96 sm:w-80">
           <img
             src={heroContent.profileImage}

@@ -6,6 +6,6 @@ export const heroContent: HeroContent = {
   title: 'Software Engineer | Full Stack Developer',
   intro:
     "Fresh graduate in Software Engineering with a passion for building clean, thoughtful web experiences — from database design to the pixels on screen. I care about the details and delivering high-quality solutions.",
-  profileImage: '/profile_maher.jpg',
+  profileImage: '/profile_maher_2.jpg',
   resumeHref: '/resume.pdf',
 }
