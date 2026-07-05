@@ -4,12 +4,12 @@ import type { Experience } from '../types'
 export const experience: Experience = {
   company: 'Cubixi',
   position: 'Software Engineer Intern',
-  duration: 'Mar 2024 – Aug 2024',
+  duration: 'August 2025 – January 2026',
   responsibilities: [
-    'Developed and maintained features for internal web applications used by the company and its clients.',
-    'Collaborated with senior engineers to design database schemas and REST APIs.',
+    'Developed and maintained features for internal web applications such as IICMS and MSP.',
+    'Contributed to front-end, back-end, and database-related tasks.',
     'Debugged and fixed reported issues, improving application stability and UI consistency.',
     'Participated in code reviews and daily stand-ups following an agile workflow.',
   ],
-  technologies: ['PHP', 'JavaScript', 'MySQL', 'Git', 'Postman'],
+  technologies: ['Java', 'JavaScript', 'PostgreSQL', 'Git', 'Trello'],
 }
